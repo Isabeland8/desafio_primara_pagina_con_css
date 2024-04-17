@@ -1,0 +1,37 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    margin: 1em;
+    background-color: rgb(196, 197, 198);
+}
+.header {
+    height: 250px;
+    background-image: url("../imgs/raumwinkel2.jpg");
+    background-position: center;
+    background-size: cover; 
+    color: rgb(139, 141, 142);
+    border-radius: 30px; 
+    text-indent: 50px;
+}
+
+.main{
+    color:rgb(18, 32, 43) ;
+}
+.footer{
+    background-color: rgb(18, 32, 43);
+    color: rgb(139, 141, 142); 
+    text-align: center;
+}
+h1{
+    line-height: 120px;
+}
+h3{
+    text-indent: 150px
+}
+img{
+    border-radius: 30px; 
+    }
+table{
+    margin: 2px 150px;
+    text-align: justify;
+}
